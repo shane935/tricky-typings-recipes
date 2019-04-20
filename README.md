@@ -1,1 +1,1 @@
-# tricky-typings-recipes-
+# tricky-typings-recipes
